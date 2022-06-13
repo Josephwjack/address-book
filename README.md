@@ -18,11 +18,11 @@ This Webpage allows users to input a number to then get a result in the robotic 
 
 ## Tests
 
-Describe :
+Describe : AddressBook.prototype.findContact
 -------1-----------
-test:  
-Code: 
-Expected Output:
+test:  findContact by id
+Code: addressBook.findContact(2);
+Expected Output: "Contact {firstName: 'Grace', lastName: 'Hopper', phoneNumber: '503-555-0199', id: 2}
 
 
 
