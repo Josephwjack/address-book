@@ -1,5 +1,5 @@
 
-# Mr Robo 
+# Address-Book
 
 #### By Caroline Cerussi & Joe Jack
 
@@ -8,13 +8,14 @@ An address directory application that allows the user to add, find and assign a 
 
 ## Technologies Used
 
-* html
-* css/boostrap
-* Javascript/JQuery
+* HTML
+* CSS
+* Bootstrap
+* JavaScript/JQuery
 
 ## Description
 
-This Webpage allows users to input a number to then get a result in the robotic language. Upon clicking submit, the number will be output a response from a robot, letting you know what the translation would be. There is then another button option that allows you to go back and resubmit a different number. 
+
 
 ## Tests
 
